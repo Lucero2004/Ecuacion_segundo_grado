@@ -1,2 +1,2 @@
-# Ecuacion_primer_grado
-programa para resolver una ecuación de primer grado
+# Ecuacion_segundo_grado
+programa para resolver una ecuación de segundo grado

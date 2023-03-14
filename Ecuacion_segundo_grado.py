@@ -2,7 +2,7 @@
 #programa para resolver una ecuacion de primer grado
 import math
 
-print("ingresa los valores para despejar una ecuacion de primer grado")
+print("ingresa los valores para despejar una ecuacion de segundo grado")
 print("de la forma ax^2+bx+c: ")
 
 a=int(input("ingrese el valor de a: "))
